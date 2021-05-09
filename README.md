@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hello world! 👋, I'm Guilherme Carvalho
 
-<!--
-**guilhermercarvalho/guilhermercarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/guilhermercarvalho-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/guilhermercarvalho/)
+![GitHub followers](https://img.shields.io/github/followers/guilhermercarvalho?style=social)
 
-Here are some ideas to get you started:
+<img align='right' src="https://media.giphy.com/media/jp9D8i0M5NyDwgM61c/source.gif" width="240">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm student at [UFMS](https://ufms.br) currently studying Information Systems and a full-stack developer (in progress), with a 👌 tendency for the backend ❤️. Acting to be a better coder and wishing to help build a better world for everyone 😃.
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me...
+
+```javascript
+const guilherme = {
+  fuillName: 'Guilherme Carvalho',
+  code: ['Javascript', 'Python', 'Java', 'Bash', 'HTML', 'CSS'],
+  backend: ['NodeJS', 'Flask', 'Django'],
+  frontend: ['React', 'Redux'],
+  database: ['PostgreSQL', 'MySQL', 'MongoDB', 'SQLite'],
+  devOps: ['Ansible', 'Docker', 'Vagrant', 'AWS', 'Nginx'],
+  tools: ['Visual Studio Code', 'Git'],
+}
+```
