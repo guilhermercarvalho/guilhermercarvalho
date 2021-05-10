@@ -11,7 +11,7 @@ I'm student at [UFMS](https://ufms.br) currently studying Information Systems an
 
 ```javascript
 const guilherme = {
-  fuillName: 'Guilherme Carvalho',
+  fullName: 'Guilherme Carvalho',
   code: ['Javascript', 'Python', 'Java', 'Bash', 'HTML', 'CSS'],
   backend: ['NodeJS', 'Flask', 'Django'],
   frontend: ['React', 'Redux'],
