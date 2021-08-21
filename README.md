@@ -14,8 +14,8 @@ const guilherme = {
   fullName: 'Guilherme Carvalho',
   code: ['Javascript', 'Python', 'Java', 'Bash', 'HTML', 'CSS'],
   backend: ['NodeJS', 'Flask', 'Django'],
-  frontend: ['React', 'Redux'],
-  database: ['PostgreSQL', 'MySQL', 'MongoDB', 'SQLite'],
+  frontend: ['React', 'Redux', 'Angular'],
+  database: ['PostgreSQL', 'MySQL', 'MongoDB', 'SQLite', 'Firebird'],
   devOps: ['Ansible', 'Docker', 'Vagrant', 'AWS', 'Nginx'],
   tools: ['Visual Studio Code', 'Git'],
 }
