@@ -13,10 +13,10 @@ I'm student at [UFMS](https://ufms.br) currently studying Information Systems an
 const guilherme = {
   fullName: 'Guilherme Carvalho',
   code: ['Javascript', 'Python', 'Java', 'Bash', 'HTML', 'CSS'],
-  backend: ['NodeJS', 'Flask', 'Django'],
+  backend: ['NodeJS', 'Flask', 'Spring Framework'],
   frontend: ['React', 'Redux', 'Angular'],
   database: ['PostgreSQL', 'MySQL', 'MongoDB', 'SQLite', 'Firebird'],
-  devOps: ['Ansible', 'Docker', 'Vagrant', 'AWS', 'Nginx'],
-  tools: ['Visual Studio Code', 'Git'],
+  devOps: ['Ansible', 'Docker', 'Vagrant', 'AWS', 'Nginx', 'Caddy'],
+  tools: ['Visual Studio Code', 'Git', 'Linux'],
 }
 ```
